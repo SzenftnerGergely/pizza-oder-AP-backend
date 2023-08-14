@@ -1,0 +1,55 @@
+{ "Pizzas": [{
+   "Number": 0,
+   "Name": "Meatball Marinara",
+   "Toppings": "Onions, Herbs, Tomato Sauce Drizzle, Tomato Sauce, Mozzarella Cheese, Extra Pork Meatballs",
+   "Price": 3990,
+   "Link":"./images/marinara.webp"
+ },
+  {
+   "Number": 1,
+   "Name": "Absolute Banger",
+   "Toppings": "Pepperoni, Sausage, Chorizo Sausage, Hotdog Slices, Tomato Sauce, Mozzarella Cheese",
+   "Price": 3890,
+   "Link":"./images/banger.webp"
+ },
+
+  {
+   "Number": 2,
+   "Name": "The Cheeseburger",
+   "Toppings": "Onions, Tomatoes, Burger Sauce, Sliced Gherkins, Tomato Sauce, Mozzarella Cheese, Extra Ground Beef",
+   "Price": 3950,
+   "Link":"./images/cheeseburger.webp"
+ },
+  {
+   "Number": 3,
+   "Name": "The Meatfielder",
+   "Toppings": "Pepperoni, Ham, Smoked Bacon Rashers, Pork Meatballs, Chorizo Sausage, Tomato Sauce, Mozzarella Cheese",
+   "Price": 3890,
+   "Link":"./images/meatfielder.webp"
+ },
+  {
+   "Number": 4,
+   "Name": "Vegi Supreme",
+   "Toppings": "Sweetcorn, Mushrooms, Onions, Green and Red Peppers, Tomatoes, Tomato Sauce, Mozzarella Cheese",
+   "Price": 3790,
+   "Link":"./images/supreme.webp"
+ },
+
+  {
+   "Number": 5,
+   "Name": "Pepperoni Passion",
+   "Toppings": "Tomato Sauce, Extra Pepperoni, Extra Mozzarella Cheese",
+   "Price": 3990,
+   "Link":"./images/passion.webp"
+ },
+
+  {
+   "Number": 6,
+   "Name": "Texas BBQ",
+   "Toppings": "Chicken Breast Strips, Onions, Smoked Bacon Rashers, Green and Red Peppers, BBQ Sauce, Mozzarella Cheese",
+   "Price": 3690,
+   "Link":"./images/bbq.webp"
+ }
+ 
+ ]
+}
